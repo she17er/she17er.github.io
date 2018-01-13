@@ -14,7 +14,6 @@ ul {
     align-items:center;
 }
 ul li {
-    display: inline-block;
     margin-left: 5vw;
     margin-right: 5vw;
 }
