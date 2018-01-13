@@ -6,7 +6,7 @@ html, body {
 body {
     margin: 0px;
     font-family: 'Montserrat', sans-serif;
-    background-color: #FFC387;
+    background-color: #505250;
 }
 ul {
     /* display:flex; */
@@ -16,6 +16,7 @@ ul {
 ul li {
     margin-left: 5vw;
     margin-right: 5vw;
+    text-decoration: none;
 }
 .container {
     width: 100%;
@@ -29,13 +30,13 @@ ul li {
 }
 h1{
     font-size: 56pt;
-    color: #c22d3a;
+    color: #76ccb1;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     white-space: nowrap;
 }
 h2 {
-    color: black;
+    color: #76ccb1;
     margin-left: 4vw;
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
@@ -44,14 +45,15 @@ h2 {
 a{
     text-decoration: none;
     font-size: 14pt;
-    color: white;
+    margin-left: 4vw;
+    color: #bcc1c0;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     white-space: nowrap;
 }
 h3{
     font-size: 12pt;
-    color: white;
+    color: #d1f4e9;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     white-space: nowrap;

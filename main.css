@@ -6,7 +6,7 @@ html, body {
 body {
     margin: 0px;
     font-family: 'Montserrat', sans-serif;
-    background-color: #FFC387;
+    background-color: #505250;
 }
 ul {
     /* display:flex; */
@@ -31,7 +31,7 @@ ul li {
 
 h1{
     font-size: 56pt;
-    color: #c22d3a;
+    color: #76ccb1;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     white-space: nowrap;
@@ -39,14 +39,14 @@ h1{
 a{
     text-decoration: none;
     font-size: 14pt;
-    color: white;
+    color: #d1f4e9;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     white-space: nowrap;
 }
 h3{
     font-size: 12pt;
-    color: white;
+    color: #d1f4e9;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     white-space: nowrap;
